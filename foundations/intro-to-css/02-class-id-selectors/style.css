@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(245, 158, 185);
+    font-family: 'Verdana', 'Dejavu Dans', 'sans-serif';
+    /*font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;*/
+   
+}
+
+#secElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.twenty-four {
+    font-size: 24px;
+}
+
+#fourElement {
+    background-color: rgb(149, 231, 149);
+    font-weight: bold;
+}
